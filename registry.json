@@ -1,0 +1,11 @@
+{
+  "themes": [
+    {
+      "name": "@roseratugo/colorz",
+      "displayName": "Colorz",
+      "description": "Dynamic color theme - Background adapts to album artwork",
+      "author": "roseratugo",
+      "tags": ["dynamic", "colorful", "minimal"]
+    }
+  ]
+}
