@@ -6,6 +6,13 @@
       "description": "Dynamic color theme - Background adapts to album artwork",
       "author": "roseratugo",
       "tags": ["dynamic", "colorful", "minimal"]
+    },
+    {
+      "name": "@roseratugo/rpg",
+      "displayName": "RPG",
+      "description": "Fantasy RPG-style theme with hexagonal badge and golden gradient text",
+      "author": "roseratugo",
+      "tags": ["fantasy", "rpg", "dark", "gaming"]
     }
   ]
 }
