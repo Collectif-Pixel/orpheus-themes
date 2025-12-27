@@ -8,6 +8,13 @@
       "tags": ["dynamic", "colorful", "minimal"]
     },
     {
+      "name": "@roseratugo/colorz-rounded",
+      "displayName": "Colorz Rounded",
+      "description": "Dynamic color theme with rounded corners",
+      "author": "roseratugo",
+      "tags": ["dynamic", "colorful", "rounded"]
+    },
+    {
       "name": "@roseratugo/rpg",
       "displayName": "RPG",
       "description": "Fantasy RPG-style theme with hexagonal badge and golden gradient text",
