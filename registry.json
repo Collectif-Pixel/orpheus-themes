@@ -15,6 +15,13 @@
       "tags": ["dynamic", "colorful", "rounded"]
     },
     {
+      "name": "@roseratugo/disco",
+      "displayName": "Disco",
+      "description": "Retro disco theme with spinning vinyl and colorful rings",
+      "author": "roseratugo",
+      "tags": ["retro", "disco", "vinyl", "animated"]
+    },
+    {
       "name": "@roseratugo/rpg",
       "displayName": "RPG",
       "description": "Fantasy RPG-style theme with hexagonal badge and golden gradient text",
